@@ -1,4 +1,4 @@
-# Qiita Sample Code or file 
+# Sample Code or file 
 
 ここには、Qiita の記事に添付される実行ファイルを保存してあります。
 利用方法はそれぞれの記事を参照ください。
