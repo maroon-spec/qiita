@@ -8,5 +8,6 @@ https://qiita.com/maroon/items/c590deadd57de0dece47
 
 mytitanic3.ipynb　: Splunk DeepLearning Toolkit用の jupyter notebookです。DLTK上の jupyter labにアップロードしてご利用ください。
 内容は、Kaggle のTitanicデータを Splunk DLTKを使って予測するためのコードになります。
-<  > 
+https://qiita.com/maroon/private/8ef1832f80562eb94020
+
 
