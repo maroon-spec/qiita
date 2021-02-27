@@ -10,4 +10,7 @@ mytitanic3.ipynb　: Splunk DeepLearning Toolkit用の jupyter notebookです。
 内容は、Kaggle のTitanicデータを Splunk DLTKを使って予測するためのコードになります。
 https://qiita.com/maroon/private/8ef1832f80562eb94020
 
+splunk_python_sample.ipynb :  Splunk のデータを RestAPIを使って取得する方法を pythonで実装するサンプルコード
+https://qiita.com/maroon/private/178a0c1263575597eea8
+
 
