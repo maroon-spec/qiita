@@ -14,6 +14,7 @@ splunk_python_sample.ipynb :  Splunk のデータを RestAPIを使って取得�
 https://qiita.com/maroon/private/178a0c1263575597eea8
 
 splunk_loop_sample.py : Splunkでループ処理を実行させるためのサンプルコード
+https://qiita.com/maroon/private/ab778443f2ce76979bf8
 
 
 
